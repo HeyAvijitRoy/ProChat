@@ -1,6 +1,6 @@
 
 # **Lightweight Self-Hosted Instant Messenger**  
-**Container Name:** `prochat`
+**Container Name:** `ProChat`
 
 This project is a lightweight, self-hosted instant messaging app designed for real-time communication between users. It’s fully scalable, flexible, and ideal for professional environments, with a hidden perk of being perfect for casual chats with friends and family during work. 😉
 
@@ -111,13 +111,13 @@ The system ensures that users are properly authenticated and tracks their sessio
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/prochat.git
+   git clone https://github.com/arkabyo/ProChat.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd prochat
+   cd ProChat
    ```
 
 3. **Set Up Your Server**  
@@ -127,7 +127,7 @@ The system ensures that users are properly authenticated and tracks their sessio
    Make sure your web server has the necessary permissions to read and write to the message files.
 
 5. **Run the Application**  
-   Open your browser and navigate to your local server (e.g., `http://localhost/prochat/`).
+   Open your browser and navigate to your local server (e.g., `http://localhost/ProChat/`).
 
 6. **Enjoy Real-Time Messaging!**  
    Start messaging, enabling notifications, and enjoy a professional or casual chat experience.
