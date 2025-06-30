@@ -111,7 +111,7 @@ The system ensures that users are properly authenticated and tracks their sessio
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/prochat.git
+   git clone https://github.com/heyavijitroy/prochat.git
    ```
 
 2. **Navigate to the Project Directory**
